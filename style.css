@@ -57,11 +57,6 @@ body {
     transform: translateY(-5px);
 }
 
-/* Highlight YOUR section */
-.highlight {
-    border: 2px solid #e63946;
-}
-
 /* LINKS */
 .card a {
     display: inline-block;
